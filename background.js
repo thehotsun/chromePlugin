@@ -3,7 +3,7 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
   sendResponse({ a: 'back' });
 });
 
-// import { axios } from './axios';
+// import { axios } from './aqxios';
 // const url = 'http://localhost:3001/api/makeClick';
 // function makeClick() {
 //   axios.get(url);
